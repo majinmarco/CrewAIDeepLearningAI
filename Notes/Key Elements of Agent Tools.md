@@ -23,4 +23,7 @@
 	- Send notifications
 	- ... and many more
 
+- Exceptions
+	- Handling exceptions is very important (restart execution, move on, or something else?)
+
 ![1755019426318](image/KeyElementsofAgentTools/1755019426318.png)
